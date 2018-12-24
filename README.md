@@ -1,4 +1,4 @@
-# tucao-code
+# Tucao Code!
 
 * Tucaoable Code
 * 值得吐槽的代码
